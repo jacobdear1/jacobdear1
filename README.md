@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacobdear1
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Machine Learning and Edge Computing
 - 🌱 I’m currently a Final year Computer Science undergrad at Durham University studying a wide variety of modules including Data Science, Artificial Intelligence and Software Engineering amongst many others
 - 💞️ I’m looking to collaborate on any Python projects with pandas or sklearn,
 - 📫 How to reach me jacob.a.dear@durham.ac.uk
